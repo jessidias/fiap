@@ -1,0 +1,1 @@
+<br><br><x-primary-button onclick="window.history.back();">{{ __('<< Voltar') }}</x-primary-button><br><br>
