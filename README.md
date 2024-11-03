@@ -40,10 +40,15 @@ Copie o arquivo de exemplo .env.example para .env:
 
 Abra o arquivo .env em um editor de texto e configure as variáveis de ambiente, especialmente as relacionadas ao banco de dados:
 `DB_CONNECTION=mysql`
+
 `DB_HOST=127.0.0.1`
+
 `DB_PORT=3306`
+
 `DB_DATABASE=fiap`
+
 `DB_USERNAME=root`
+
 `DB_PASSWORD=`
 
 ### 6. Gere a Chave da Aplicação
