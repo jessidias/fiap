@@ -39,6 +39,7 @@ Copie o arquivo de exemplo .env.example para .env:
 ### 5. Configure as Variáveis de Ambiente
 
 Abra o arquivo .env em um editor de texto e configure as variáveis de ambiente, especialmente as relacionadas ao banco de dados:
+
 `DB_CONNECTION=mysql`
 
 `DB_HOST=127.0.0.1`
